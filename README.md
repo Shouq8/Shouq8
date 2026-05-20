@@ -2,6 +2,10 @@
 
 ###
 
+<h4 align="left">Hi, I'm Shouq! 📊 A dedicated Data Analyst with a strong foundation in data manipulation and exploration. I've been refining my skills in Excel and SQL to turn raw data into actionable insights. Currently, I'm diving deep into Python for data analysis and automation.<br>​I am passionate about building impactful solutions, learning by doing, and contributing to open-source projects. Here, I document my learning journey and share the projects I build along the way. Let's connect and innovate through data!"</h4>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Shouq8/Shouq8/languages-output/languages.svg" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Shouq8/Shouq8/stats-output/stats.svg" height="150" alt="stats graph"  />
@@ -22,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
 
 ###
