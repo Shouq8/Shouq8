@@ -7,12 +7,12 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shouq8&show_icons=true&theme=dracula" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shouq8&layout=compact&theme=dracula" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shouq8&theme=radical" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details??username=Shouq8&theme=radical" alt="languages graph" />
 
 </div>
 
-###
+
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <a href="https://www.instagram.com/shouq__alghamdi/">
@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
   </a>
 </div>
-###
 
 <p align="left"></p>
 
