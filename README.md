@@ -5,14 +5,9 @@
 <h4 align="left">Hi, I'm Shouq! 📊 A dedicated Data Analyst with a strong foundation in data manipulation and exploration. I've been refining my skills in Excel and SQL to turn raw data into actionable insights. Currently, I'm diving deep into Python for data analysis and automation.<br>​I am passionate about building impactful solutions, learning by doing, and contributing to open-source projects. Here, I document my learning journey and share the projects I build along the way. Let's connect and innovate through data!"</h4>
 
 ###
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shouq8&layout=compact" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shouq8&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Shouq8&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shouq8&theme=radical" alt="GitHub Stats" />
+</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
